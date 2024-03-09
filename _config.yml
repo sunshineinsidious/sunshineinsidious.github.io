@@ -5,6 +5,9 @@ author:             ...
 #baseurl:            "/startbootstrap-clean-blog-jekyll"
 url:                "https://sunshineinsidious.github.io"
 
+#navigation
+- {file: "over here", url: "http://www.newgrounds.com"}
+
 # Social Profiles
 twitter_username:   SBootstrap
 
